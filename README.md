@@ -19,8 +19,8 @@ DAX: For data modeling and creating calculated columns and measures.
 Power Query: For data cleaning, transformation, and loading.
 
 ##Screenshot (Dashboard)
-![Dashboard Image](https://github.com/Drupad-H-S/PWC_churn-analysis_POWERBI/blob/main/1.png)                                                                          
-![Dashboard Image](https://github.com/Drupad-H-S/PWC_churn-analysis_POWERBI/blob/main/2.png)                                                                                    
-![Dashboard Image](hhttps://github.com/Drupad-H-S/PWC_churn-analysis_POWERBI/blob/main/3.png)                                                                        
+![Dashboard Image](https://github.com/Drupad-H-S/PWC_churn-analysis_POWERBI/blob/main/1.png)                                                                        
+![Dashboard Image](https://github.com/Drupad-H-S/PWC_churn-analysis_POWERBI/blob/main/2.png)            
+![Dashboard Image](hhttps://github.com/Drupad-H-S/PWC_churn-analysis_POWERBI/blob/main/3.png)
 ![Dashboard Image](https://github.com/Drupad-H-S/PWC_churn-analysis_POWERBI/blob/main/4.png)
 
